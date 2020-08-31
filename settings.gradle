@@ -1,0 +1,3 @@
+include ':app', ':components'
+project(':components').projectDir = new File('C:\\Users\\pozni\\Documents\\AndroidProjects\\AndroidComponents')
+rootProject.name = "Cats Project"
